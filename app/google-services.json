@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837406963582",
+    "firebase_url": "https://phonelogin-345a7.firebaseio.com",
+    "project_id": "phonelogin-345a7",
+    "storage_bucket": "phonelogin-345a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837406963582:android:8af44f0b806d25e16c652f",
+        "android_client_info": {
+          "package_name": "com.martialcoder.phonelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837406963582-n96clrcbdit3mof0umq7d6hj1niptc6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.martialcoder.phonelogin",
+            "certificate_hash": "413f97497092e755a1cd54f0bd78c197f425e9bc"
+          }
+        },
+        {
+          "client_id": "837406963582-mnflaoeo139jsjnm460pr6sf51cka0te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ3YmHEWcF6VEi8xFyiP9Lp5S0goQEMIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837406963582-mnflaoeo139jsjnm460pr6sf51cka0te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
